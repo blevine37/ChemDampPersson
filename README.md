@@ -22,7 +22,7 @@ Enter the following parameters in the header section of `Calc_ChemDampPersson.py
 * Bulk dielectric constant of adsorbate matrix
 
 ## Output
-The script gives the normal and tangential contributions of the adsorbate to the line-width parameters $\Delta A$, and surface plasmon width $\gamma$. The script also generates the plots of the function J($\omega$) and function Im $\alpha(\omega)$. For details see the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).      
+The script gives the normal and tangential contributions of the adsorbate to the line-width parameters $\Delta A$, and surface plasmon width $\gamma$. The script also generates the plots of the function *J*($\omega$), and function Im $\alpha(\omega)$. For details see the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).      
 
  ## Test
 The test directory contains the applications of script to Ag@CO matrix, and reproduces the results given in the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).
