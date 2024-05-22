@@ -5,7 +5,12 @@ The python script to compute the adsorbate induced contribution to line-width pa
 
 The latest version of the code is available at [https://github.com/blevine37/ChemDampPersson](https://github.com/blevine37/ChemDampPersson).
 
-## Requirements
+ ## Citation
+ Publications arising from the use of this code are asked to please cite the forthcoming paper:
+
+ B. Ostovar, et al.  The Role of the Plasmon in Interfacial Charge Transfer. (2024).
+ 
+ ## Requirements
 The script requres `Python3`, `numpy`, `scipy` and `matplotlib`. 
 
 ## Input Parameters
@@ -24,16 +29,11 @@ Enter the following parameters in the header section of `Calc_ChemDampPersson.py
 * Bulk dielectric constant of adsorbate matrix
 
 ## Output
-The script gives the normal and tangential contributions of the adsorbate to the line-width parameters $\Delta A$, and surface plasmon width $\gamma$. The script also generates the plots of the function *J*(ω), and function Im $\alpha$(ω). For details see the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).      
+The script gives the normal and tangential contributions of the adsorbate to the line-width parameters $\Delta A$, and surface plasmon width $\gamma$. The script also generates the plots of the function *J*(ω), and function Im $\alpha$(ω). For details see [Personn's paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).      
 
  ## Test
-The test directory contains the applications of script to Ag@CO matrix, and reproduces the results given in the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).
+The test directory contains the applications of script to Ag@CO matrix, and reproduces the results given in [Persson's paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).
 
- ## Citation
- Publications arising from the use of this code are asked to cite the forthcoming paper:
-
- B. Ostovar, et al.  The Role of the Plasmon in Interfacial Charge Transfer. (2024).
- 
  ## Further Readings
 For further details, please see the following publication.
 
