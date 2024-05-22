@@ -3,6 +3,8 @@ ChemDampPersson
 
 The python script to compute the adsorbate induced contribution to line-width parameters $\Delta A$, and surface plasmon width 	$\gamma$, for chemical interface damping according to the method described by Persson, B. N. J., [Polarizability of small spherical metal particles: influence of the matrix environment](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H). *Surface Science* **1993**, *281*, 153-162.
 
+The latest version of the code is available at [https://github.com/blevine37/ChemDampPersson](https://github.com/blevine37/ChemDampPersson).
+
 ## Requirements
 The script requres `Python3`, `numpy`, `scipy` and `matplotlib`. 
 
@@ -27,6 +29,11 @@ The script gives the normal and tangential contributions of the adsorbate to the
  ## Test
 The test directory contains the applications of script to Ag@CO matrix, and reproduces the results given in the [original paper](https://www.sciencedirect.com/science/article/abs/pii/003960289390865H).
 
+ ## Citation
+ Publications arising from the use of this code are asked to cite the forthcoming paper:
+
+ B. Ostovar, et al.  The Role of the Plasmon in Interfacial Charge Transfer. (2024).
+ 
  ## Further Readings
 For further details, please see the following publication.
 
