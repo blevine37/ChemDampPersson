@@ -8,7 +8,8 @@ The latest version of the code is available at [https://github.com/blevine37/Che
  ## Citation
  Publications arising from the use of this code are asked to please cite the forthcoming paper:
 
- B. Ostovar, et al.  The Role of the Plasmon in Interfacial Charge Transfer. (2024).
+ B. Ostovar, et al., [The role of the plasmon in interfacial charge transfer.](https://www.science.org/doi/10.1126/sciadv.adp3353) _Sci. Adv._ **10**, eadp3353(2024). [DOI:10.1126/sciadv.adp3353](https://doi.org/10.1126/sciadv.adp3353)
+Ex.
  
  ## Requirements
 The script requres `Python3`, `numpy`, `scipy` and `matplotlib`. 
